@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://learnpathway.kassajay3.workers.dev/sitemap.xml
